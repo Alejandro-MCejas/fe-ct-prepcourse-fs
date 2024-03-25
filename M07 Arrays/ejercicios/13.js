@@ -12,6 +12,8 @@ function promedioResultadosTest(resultadosTest) {
   // }
   // return sumaDeNotas / resultadosTest.length;
 
+  // CON METODO REDUCE:
+
   let resultado = resultadosTest.reduce(function(acumulador, numero) {
     return acumulador += numero;
   })
