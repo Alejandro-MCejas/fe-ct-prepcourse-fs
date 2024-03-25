@@ -8,6 +8,8 @@ function esNumeroPrimo(numero) {
   // Tu código:
 
  
+
+ 
 }
 
 module.exports = esNumeroPrimo;
